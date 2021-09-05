@@ -1,4 +1,4 @@
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 
 A small led light on a c32032 cell battery. 
